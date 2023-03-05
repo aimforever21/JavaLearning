@@ -1,4 +1,4 @@
-package com.helloworld.aim;
+package com.core.java.aim;
 
 public class Main {
 
